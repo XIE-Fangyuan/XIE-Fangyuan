@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, self == Xie Fangyuan 👋
 
 <!--
 **Xie-Fangyuan/Xie-Fangyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Like a Swift, like a Python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xie-Fangyuan&show_icons=true&theme=dracula)](https://github.com/Xie-Fangyuan/github-readme-stats)
